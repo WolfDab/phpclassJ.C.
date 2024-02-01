@@ -1,6 +1,7 @@
 header{
     width: 100%;
-    float: left; Georgia;
+    float: left;
+    font-family: Gabriola;
     text-align: center;
     background-color: aqua;
 }
@@ -10,8 +11,8 @@ nav{
     background-color: rosybrown;
 }
 main {
-    width: 60%:
-    float: left:
+    width: 60%;
+    float: left;
     font-size: large;
     background-color: aquamarine;
 }
@@ -35,7 +36,7 @@ footer{
 ul{
     list-style-type: none;
     margin: 0;
-    padding: p;
+    padding: 0;
     width: 200px;
     background-color: #f1f1f1;
 }
