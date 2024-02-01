@@ -28,7 +28,7 @@ $seconds = $seconds - ( $SEC_PER_MIN * $minute);
 <head>
     <meta charset="UTF-8">
     <title>J.C.'s Homepage</title>
-    <link rel="stylesheet" type="text/css" href="style/base.css">
+    <link rel="stylesheet" type="text/css" href="../style/base.css">
 </head>
 <body>
 <header>
