@@ -40,7 +40,7 @@ $seconds = $seconds - ( $SEC_PER_MIN * $minute);
 <main>
     <h3>Countdown Timer</h3>
     <p>Next Decade: Total Seconds <?php $NEXT_DECADE ?></p>
-    <?php echo "Years:" $years | "Days:" $days | "Minutes" $minute | "Seconds" $seconds ?>
+    <?php echo "Years: $years | Days: $days | Minutes $minute | Seconds $seconds" ?>
 </main>
 <footer>
     <?php include ("../template/footer.php") ?>
