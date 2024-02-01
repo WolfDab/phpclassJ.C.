@@ -5,7 +5,7 @@ $SEC_PER_DAY = 24 * $SEC_PER_HOUR;
 $SEC_PER_YEAR = 365 * $SEC_PER_DAY;
 
 $NOW = time();
-$NEXT_DECADE = mkTime( 0, 0, 0, 1, 1, 2030);
+$NEXT_DECADE = mkTime( 0, 0, 0, 5, 20, 2024);
 
 $seconds = $NEXT_DECADE - $NOW;
 
@@ -28,7 +28,7 @@ $seconds = $seconds - ( $SEC_PER_MIN * $minute);
 <head>
     <meta charset="UTF-8">
     <title>J.C.'s Homepage</title>
-    <link rel="stylesheet" type="../text/css" href="style/base.css">
+    <link rel="stylesheet" type="text/css" href="style/base.css">
 </head>
 <body>
 <header>
